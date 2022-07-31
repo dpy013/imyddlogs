@@ -1,106 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-    <title type="text">小丁日志</title>
-    <subtitle type="html">记录学习和生活。</subtitle>
-    <updated>2022-07-31T21:31:45&#43;00:00</updated>
-    <id>https://dpy013.gitee.io/</id>
-    <link rel="alternate" type="text/html" href="https://dpy013.gitee.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://dpy013.gitee.io/atom.xml" />
-    <author>
-            <name>xiaodinlog</name>
-            <uri>https://dpy013.gitee.io/</uri>
-            
-                <email>dingpengyu06@gmail.com</email>
-            </author>
-    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
-    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
-        <entry>
-            <title type="text">Chromium 浏览器下载整理</title>
-            <link rel="alternate" type="text/html" href="https://dpy013.gitee.io/post/chromium-down/" />
-            <id>https://dpy013.gitee.io/post/chromium-down/</id>
-            <updated>2022-07-30T11:36:24&#43;08:00</updated>
-            <published>2022-07-30T11:36:24&#43;08:00</published>
-            <author>
-                    <name>xiaodinlog</name>
-                    <uri>https://xiaodinlog.xyz/</uri>
-                    <email>dingpengyu06@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">整理一份chromium浏览器的下载地址，方便自己使用</summary>
-            
-                <content type="html">&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;为了自己能够方便的更新以及下载浏览器，所以就有了这篇文章。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;下载-google-chrome&#34;&gt;下载 google chrome&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.google.com/chrome/browser/desktop/index.html?system=true&amp;amp;standalone=1&amp;amp;extra=stablechannel&#34;&gt;稳定版下载&lt;/a&gt;
-&lt;a href=&#34;https://www.google.com/chrome/browser/desktop/index.html?system=true&amp;amp;standalone=1&amp;amp;extra=betachannel&#34;&gt;测试版下载&lt;/a&gt;
-&lt;a href=&#34;https://www.google.com/chrome/browser/desktop/index.html?system=true&amp;amp;standalone=1&amp;amp;extra=devchannel&#34;&gt;开发板下载&lt;/a&gt;
-&lt;a href=&#34;https://www.google.cn/chrome&#34;&gt;google浏览器国内页面&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;下载microsoft-edge&#34;&gt;下载Microsoft Edge&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.microsoft.com/zh-cn/edge&#34;&gt;官方页面下载 Microsoft Edge&lt;/a&gt;&lt;/p&gt;</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/" term="浏览器" label="浏览器" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/chromium/" term="chromium" label="chromium" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/download/" term="download" label="download" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/google-chrome/" term="google chrome" label="google chrome" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/microsoft-edge/" term="Microsoft Edge" label="Microsoft Edge" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">一个技术人眼中的小康梦</title>
-            <link rel="alternate" type="text/html" href="https://dpy013.gitee.io/post/personal-thought/" />
-            <id>https://dpy013.gitee.io/post/personal-thought/</id>
-            <updated>2022-07-30T07:24:56&#43;08:00</updated>
-            <published>2022-07-30T07:24:56&#43;08:00</published>
-            <author>
-                    <name>xiaodinlog</name>
-                    <uri>https://xiaodinlog.xyz/</uri>
-                    <email>dingpengyu06@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">记录一些个人的所思所想</summary>
-            
-                <content type="html">&lt;p&gt;马斯洛曾经提出了需求理论，需求理论把人的需要从低到高分为五大类，分别是生理需求、安全需求、社交需求、尊重需求和自我实现需求。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">小丁日志</title><subtitle type="html">记录学习和生活。</subtitle><updated>2022-07-31T21:31:49+00:00</updated><id>https://xiaodinlog.xyz/</id><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/"/><link rel="self" type="application/atom+xml" href="https://xiaodinlog.xyz/atom.xml"/><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><entry><title type="text">Chromium 浏览器下载整理</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/chromium-down/"/><id>https://xiaodinlog.xyz/post/chromium-down/</id><updated>2022-07-30T11:36:24+08:00</updated><published>2022-07-30T11:36:24+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">整理一份chromium浏览器的下载地址，方便自己使用</summary><content type="html">&lt;h2 id="前言">前言&lt;/h2>
+&lt;ul>
+&lt;li>为了自己能够方便的更新以及下载浏览器，所以就有了这篇文章。&lt;/li>
+&lt;/ul>
+&lt;h3 id="下载-google-chrome">下载 google chrome&lt;/h3>
+&lt;p>&lt;a href="https://www.google.com/chrome/browser/desktop/index.html?system=true&amp;amp;standalone=1&amp;amp;extra=stablechannel">稳定版下载&lt;/a>
+&lt;a href="https://www.google.com/chrome/browser/desktop/index.html?system=true&amp;amp;standalone=1&amp;amp;extra=betachannel">测试版下载&lt;/a>
+&lt;a href="https://www.google.com/chrome/browser/desktop/index.html?system=true&amp;amp;standalone=1&amp;amp;extra=devchannel">开发板下载&lt;/a>
+&lt;a href="https://www.google.cn/chrome">google浏览器国内页面&lt;/a>&lt;/p>
+&lt;h3 id="下载microsoft-edge">下载Microsoft Edge&lt;/h3>
+&lt;p>&lt;a href="https://www.microsoft.com/zh-cn/edge">官方页面下载 Microsoft Edge&lt;/a>&lt;/p></content><category scheme="https://xiaodinlog.xyz/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/" term="浏览器" label="浏览器"/><category scheme="https://xiaodinlog.xyz/tags/chromium/" term="chromium" label="chromium"/><category scheme="https://xiaodinlog.xyz/tags/download/" term="download" label="download"/><category scheme="https://xiaodinlog.xyz/tags/google-chrome/" term="google chrome" label="google chrome"/><category scheme="https://xiaodinlog.xyz/tags/microsoft-edge/" term="Microsoft Edge" label="Microsoft Edge"/></entry><entry><title type="text">一个技术人眼中的小康梦</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/personal-thought/"/><id>https://xiaodinlog.xyz/post/personal-thought/</id><updated>2022-07-30T07:24:56+08:00</updated><published>2022-07-30T07:24:56+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">记录一些个人的所思所想</summary><content type="html">&lt;p>马斯洛曾经提出了需求理论，需求理论把人的需要从低到高分为五大类，分别是生理需求、安全需求、社交需求、尊重需求和自我实现需求。
 而在日常生活中，视障者因为出行的问题社交需求，自我实现需求，大部分是不能得到满足的，所以健全人在公众场合很难见到视障者的存在。
 也许大家看的有一点云里雾里，不是在说我的小康梦吗？那么怎么提到了马斯洛的需要理论了，这不是南辕北辙吗？
 其实并不是这样的，小康水平恰好是对应了马斯洛需求理论的第一层。
@@ -127,158 +35,60 @@
 精神自主和经济自主缺一不可，虽然我现在还没有达到这一水平。
 这是一个技术人眼中的小康梦
 ps：
-这是第一篇投稿的文章，从现在来看，当时写的真的是惨不忍睹！&lt;/p&gt;</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/categories/%E4%B8%AA%E4%BA%BA%E6%80%9D%E8%80%83/" term="个人思考" label="个人思考" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/%E4%B8%AA%E4%BA%BA%E6%80%9D%E8%80%83/" term="个人思考" label="个人思考" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/%E5%87%BA%E5%85%A5%E7%9B%B2%E5%9C%88/" term="出入盲圈" label="出入盲圈" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">一次无障碍产品的沟通经历</title>
-            <link rel="alternate" type="text/html" href="https://dpy013.gitee.io/post/accessible-feedback/" />
-            <id>https://dpy013.gitee.io/post/accessible-feedback/</id>
-            <updated>2022-07-30T06:29:24&#43;08:00</updated>
-            <published>2022-07-30T06:29:24&#43;08:00</published>
-            <author>
-                    <name>xiaodinlog</name>
-                    <uri>https://xiaodinlog.xyz/</uri>
-                    <email>dingpengyu06@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这是以前给残联的一篇投稿，有时间就从.docx转成.markdown了。</summary>
-            
-                <content type="html">&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
-&lt;p&gt;随着现代科技突飞猛进，互联网+、大数据、智能化、5G等先进高科技已经来临，各种高科技产品层出不穷，迭代更新更是不容人们去想，真所谓“不怕做不到，就怕想不到”。
+这是第一篇投稿的文章，从现在来看，当时写的真的是惨不忍睹！&lt;/p></content><category scheme="https://xiaodinlog.xyz/categories/%E4%B8%AA%E4%BA%BA%E6%80%9D%E8%80%83/" term="个人思考" label="个人思考"/><category scheme="https://xiaodinlog.xyz/tags/%E4%B8%AA%E4%BA%BA%E6%80%9D%E8%80%83/" term="个人思考" label="个人思考"/><category scheme="https://xiaodinlog.xyz/tags/%E5%87%BA%E5%85%A5%E7%9B%B2%E5%9C%88/" term="出入盲圈" label="出入盲圈"/></entry><entry><title type="text">一次无障碍产品的沟通经历</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/accessible-feedback/"/><id>https://xiaodinlog.xyz/post/accessible-feedback/</id><updated>2022-07-30T06:29:24+08:00</updated><published>2022-07-30T06:29:24+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这是以前给残联的一篇投稿，有时间就从.docx转成.markdown了。</summary><content type="html">&lt;h2 id="前言">前言&lt;/h2>
+&lt;p>随着现代科技突飞猛进，互联网+、大数据、智能化、5G等先进高科技已经来临，各种高科技产品层出不穷，迭代更新更是不容人们去想，真所谓“不怕做不到，就怕想不到”。
 当然祖国的科技更是发展迅猛，高精尖科技走在了世界的前列，在中华传统文化的熏陶和滋养下，人们的思想有了质和美的提升，志愿者队伍不断扩大、社会弱势群体得到了真正的关注，民生改进工程得到了有效地落实。
 我作为一名残障者，尤其倍感社区的关爱、社会的帮助、志愿者的嘘寒问暖，总感觉着“祖国妈妈对残障者的印象也在不断的刷新着”，切实解决了老有所养、幼有所爱、住有所居、弱有所扶的民生实事工程。
 下面就用我的一次亲身经历来阐述这一好现象。
-2019年十月一日，正值我的祖国建立七十周年，特此把这件事儿写下来语各位残障工作者共勉。&lt;/p&gt;
-&lt;h2 id=&#34;正文&#34;&gt;正文&lt;/h2&gt;
-&lt;p&gt;我深爱着我的祖国。虽然我不能去创造丰功伟绩，但我认为其实爱国很简单，把手里的每一件简单的事做好，就是不简单，把我们身边每一件容易的事做好，就是不容易。不管是从事哪一类行业，只要尽力而为、尽心尽职，对得起自己即可。就像我现在拿着键盘在写这篇文章，我认真写，你认真看。希望你阅读后可以有所德，有所思，有所想。&lt;/p&gt;
-&lt;p&gt;下面注解一下后面文章中不懂的关键字：&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://baike.baidu.com/item/%E8%A7%86%E9%9A%9C/188786&#34;&gt;视障&lt;/a&gt; 残障类型中的一个分类，主要是形容眼睛受到损伤，和先天性无法看到的人。&lt;/p&gt;
-&lt;p&gt;无障碍：英文&lt;a href=&#34;https://en.wikipedia.org/wiki/Accessibility&#34;&gt;accessibility&lt;/a&gt; 出自西方，英译也叫无障碍，或可访问性。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://baike.baidu.com/item/%E5%B1%8F%E5%B9%95%E9%98%85%E8%AF%BB%E5%99%A8/7576393&#34;&gt;屏幕阅读器&lt;/a&gt; 把电脑上的文字使用语音或盲文朗读显示出来，传递给视障者的软件。&lt;/p&gt;
-&lt;p&gt;下面进入正题：&lt;/p&gt;
-&lt;p&gt;我是一个爱学习的人。虽然我生来就双目失明，但我很幸福地渡过了我的童年和少年，11岁开始去苏州盲聋哑学校读了9年书，学到了许多为人处事的道理，“人残志不残”，学会了属于自己的学习方法―――读盲文书、看盲文杂志、网上学习。现在毕业回来了，我仍然能始终坚持在校学习的样子，每天阅读、写写东西，网上浏览浏览。虽然我每天都在网上，但从不玩游戏、与他人无目的地闲聊，毕竟我是个想学习的人。&lt;/p&gt;
-&lt;p&gt;有一天晚上，我按照我的作息计划，最后准备在刷刷微信朋友圈就准备休息了，刷着刷着看到了一个分享链接，后面带着(无限张家港)这个app name。其实这是最早的app名称，后面开发者更换了几次app name。在没看到这个链接之前，其实我是不知道有这个app存在的。&lt;/p&gt;
-&lt;p&gt;我当时看到这个app的第一眼，我就想，第二天安装一个来体验一下吧！这是老司机固有的思维模式。这毕竟是我们张家港本地的一个app，看看开发者对无障碍的支持如何。另外也有想支持一下本地app无障碍的推进工作的想法。&lt;/p&gt;
-&lt;p&gt;转眼来到了第二天，我想起了昨天晚上这件事而，于是我去搜索了（无限张家港）这个app的简介，看完简介我才知道，这个app原来是电视台旗下新媒体中心的产品，看完简介，接下来就是进行具体体验的时候了。&lt;/p&gt;
-&lt;p&gt;我在 &lt;a href=&#34;https://www.apple.com/app-store/&#34;&gt;app store&lt;/a&gt; 进行了搜索，谢天谢地。竟然有ios版！我心里感到窃喜，接下来我毫不犹豫的下载了app。app安装完后打开app让我有一点蒙圈！这app的按钮怎么大部分都是英文的？幸亏我计算机英文还行，虽然口语不行，但是使用屏幕阅读器听还是没什么大问题的。&lt;/p&gt;
-&lt;p&gt;随后，我开始了浏览app板块的进程：短视频、图说、张家港工信……嘿，这板块还不少，接下来的几天，我对无限张家港这个app做了仔细的体验，最后我个人德出结论，这是张家港地区app中无障碍比较不错的一款。&lt;/p&gt;
-&lt;p&gt;我是一个爱钻研的人。也许是“爱乌及屋”的缘故吧。我喜欢用电脑学习，更喜欢学点软件什么的。面对这个张家港地区中无障碍比较不错的一款app，的确为我们残障解决了许多困难，提供了许多周到细致的服务，感谢政府和人民对我们的关爱和帮助。但是任何软件都会金无足赤，再好的事物，也有不足的地方，app唯一的不足之处就是用户交互控件大部分是英文。例如：搜索在无限张家港主界面就是(sourch)，消息就是(message)……诸如此类，在无限张家港这个app的主界面是很常见的，对于老司机来说，使用没有什么压力，但是对初学者就是问题了。体验完后，最后就是找反馈渠道了，我首先查看了app store的开发者信息，没有找到反馈渠道，接着又在搜索引擎搜索了相关公司的网站，也没有找到反馈渠道，最后我在QQ群的搜索页面找到了反馈渠道。&lt;/p&gt;
-&lt;p&gt;于是，我添加了产品经理的qq，把相关测试数据反馈给了他，他看到消息以后一点都不惊讶，这是我观察出来的结论。最后我问他了一个问题，你们开发组是有无障碍测试人员吧？要不然app的无障碍可用性怎么那么高？他的回复是没有，这是我十分动容！一个没有无障碍测试体系的开发组可以把app做到现在这样的无障碍体验水平已经是难能可贵了。最后的最后，我给产品经理说假如有关于无障碍的问题，我会给你反馈的，他说感谢你的支持。其实无障碍这一名词是近几年才进入大众视野中的，这也说明了国家的发展已经进入了物质发展与精神发展的高级阶段了。这也是比较有里程碑意义的事而。&lt;/p&gt;
-&lt;p&gt;残障者虽身有残疾，但是这不是你应当不努力的理由，残障者应当比普通人更明白痛苦和劫难。“宝剑锋从磨砺出，梅花香自苦寒来”。愿我们共同努力，相互共勉，在祖国母亲的呵护下，沐浴祖国改革开放的伟大成就，做一名终身学习者、追求生活的强者。&lt;/p&gt;</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/categories/%E6%8A%95%E7%A8%BF/" term="投稿" label="投稿" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/%E5%8D%9A%E5%AE%A2/" term="博客" label="博客" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/%E6%8A%95%E7%A8%BF/" term="投稿" label="投稿" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">笔记： 如何维护 NVDA 社区本地化翻译</title>
-            <link rel="alternate" type="text/html" href="https://dpy013.gitee.io/post/nvda-localization/" />
-            <id>https://dpy013.gitee.io/post/nvda-localization/</id>
-            <updated>2020-04-02T09:45:22&#43;08:00</updated>
-            <published>2020-04-02T09:45:22&#43;08:00</published>
-            <author>
-                    <name>xiaodinlog</name>
-                    <uri>https://xiaodinlog.xyz/</uri>
-                    <email>dingpengyu06@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">记录开源屏幕阅读器 NVDA 是如何维护翻译的。</summary>
-            
-                <content type="html">&lt;h2 id=&#34;如何维护nvda社区本地化翻译&#34;&gt;如何维护NVDA社区本地化翻译&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;NVDA是一套开放源代码的屏幕阅读器,他可以被翻译成多种国家的语言,下面就已问答的形式来讲讲刚进入NVDA SVN翻译团队的新成员,怎么进入NVDA翻译维护的世界:
-问:&lt;/li&gt;
-&lt;li&gt;我已经加入了官方svn翻译团队,有了上传权限,接下来我应该准备一些什么工具?
-答:&lt;/li&gt;
-&lt;li&gt;工欲善其事,必先利其器.下面就讲一讲在NVDA的翻译过程中,所需要的一些常用工具:
-TortoiseSVN:&lt;/li&gt;
-&lt;li&gt;TortoiseSVN 是 Apache Subversion（SVN）的客户端工具之一,TortoiseSVN 在NVDA的翻译过程中,主要是启着获取官方最新的翻译文件,和同步翻译条目到官方svn存储库的绝色。
-&lt;a href=&#34;https://tortoisesvn.net/downloads.zh.html&#34;&gt;TortoiseSVN 安装包 语言包下载&lt;/a&gt;
-poedit:&lt;/li&gt;
-&lt;li&gt;Poedit 是 Gettext Translations Editor 的本地化编辑器,主要是编辑.po的翻译格式文件,poedit在NVDA的翻译过程中,主要是起着翻译NVDA主界面(nvda.po),和NVDA插件的绝色。
-&lt;a href=&#34;https://poedit.net/download&#34;&gt;poedit下载&lt;/a&gt;
+2019年十月一日，正值我的祖国建立七十周年，特此把这件事儿写下来语各位残障工作者共勉。&lt;/p>
+&lt;h2 id="正文">正文&lt;/h2>
+&lt;p>我深爱着我的祖国。虽然我不能去创造丰功伟绩，但我认为其实爱国很简单，把手里的每一件简单的事做好，就是不简单，把我们身边每一件容易的事做好，就是不容易。不管是从事哪一类行业，只要尽力而为、尽心尽职，对得起自己即可。就像我现在拿着键盘在写这篇文章，我认真写，你认真看。希望你阅读后可以有所德，有所思，有所想。&lt;/p>
+&lt;p>下面注解一下后面文章中不懂的关键字：&lt;/p>
+&lt;p>&lt;a href="https://baike.baidu.com/item/%E8%A7%86%E9%9A%9C/188786">视障&lt;/a> 残障类型中的一个分类，主要是形容眼睛受到损伤，和先天性无法看到的人。&lt;/p>
+&lt;p>无障碍：英文&lt;a href="https://en.wikipedia.org/wiki/Accessibility">accessibility&lt;/a> 出自西方，英译也叫无障碍，或可访问性。&lt;/p>
+&lt;p>&lt;a href="https://baike.baidu.com/item/%E5%B1%8F%E5%B9%95%E9%98%85%E8%AF%BB%E5%99%A8/7576393">屏幕阅读器&lt;/a> 把电脑上的文字使用语音或盲文朗读显示出来，传递给视障者的软件。&lt;/p>
+&lt;p>下面进入正题：&lt;/p>
+&lt;p>我是一个爱学习的人。虽然我生来就双目失明，但我很幸福地渡过了我的童年和少年，11岁开始去苏州盲聋哑学校读了9年书，学到了许多为人处事的道理，“人残志不残”，学会了属于自己的学习方法―――读盲文书、看盲文杂志、网上学习。现在毕业回来了，我仍然能始终坚持在校学习的样子，每天阅读、写写东西，网上浏览浏览。虽然我每天都在网上，但从不玩游戏、与他人无目的地闲聊，毕竟我是个想学习的人。&lt;/p>
+&lt;p>有一天晚上，我按照我的作息计划，最后准备在刷刷微信朋友圈就准备休息了，刷着刷着看到了一个分享链接，后面带着(无限张家港)这个app name。其实这是最早的app名称，后面开发者更换了几次app name。在没看到这个链接之前，其实我是不知道有这个app存在的。&lt;/p>
+&lt;p>我当时看到这个app的第一眼，我就想，第二天安装一个来体验一下吧！这是老司机固有的思维模式。这毕竟是我们张家港本地的一个app，看看开发者对无障碍的支持如何。另外也有想支持一下本地app无障碍的推进工作的想法。&lt;/p>
+&lt;p>转眼来到了第二天，我想起了昨天晚上这件事而，于是我去搜索了（无限张家港）这个app的简介，看完简介我才知道，这个app原来是电视台旗下新媒体中心的产品，看完简介，接下来就是进行具体体验的时候了。&lt;/p>
+&lt;p>我在 &lt;a href="https://www.apple.com/app-store/">app store&lt;/a> 进行了搜索，谢天谢地。竟然有ios版！我心里感到窃喜，接下来我毫不犹豫的下载了app。app安装完后打开app让我有一点蒙圈！这app的按钮怎么大部分都是英文的？幸亏我计算机英文还行，虽然口语不行，但是使用屏幕阅读器听还是没什么大问题的。&lt;/p>
+&lt;p>随后，我开始了浏览app板块的进程：短视频、图说、张家港工信……嘿，这板块还不少，接下来的几天，我对无限张家港这个app做了仔细的体验，最后我个人德出结论，这是张家港地区app中无障碍比较不错的一款。&lt;/p>
+&lt;p>我是一个爱钻研的人。也许是“爱乌及屋”的缘故吧。我喜欢用电脑学习，更喜欢学点软件什么的。面对这个张家港地区中无障碍比较不错的一款app，的确为我们残障解决了许多困难，提供了许多周到细致的服务，感谢政府和人民对我们的关爱和帮助。但是任何软件都会金无足赤，再好的事物，也有不足的地方，app唯一的不足之处就是用户交互控件大部分是英文。例如：搜索在无限张家港主界面就是(sourch)，消息就是(message)……诸如此类，在无限张家港这个app的主界面是很常见的，对于老司机来说，使用没有什么压力，但是对初学者就是问题了。体验完后，最后就是找反馈渠道了，我首先查看了app store的开发者信息，没有找到反馈渠道，接着又在搜索引擎搜索了相关公司的网站，也没有找到反馈渠道，最后我在QQ群的搜索页面找到了反馈渠道。&lt;/p>
+&lt;p>于是，我添加了产品经理的qq，把相关测试数据反馈给了他，他看到消息以后一点都不惊讶，这是我观察出来的结论。最后我问他了一个问题，你们开发组是有无障碍测试人员吧？要不然app的无障碍可用性怎么那么高？他的回复是没有，这是我十分动容！一个没有无障碍测试体系的开发组可以把app做到现在这样的无障碍体验水平已经是难能可贵了。最后的最后，我给产品经理说假如有关于无障碍的问题，我会给你反馈的，他说感谢你的支持。其实无障碍这一名词是近几年才进入大众视野中的，这也说明了国家的发展已经进入了物质发展与精神发展的高级阶段了。这也是比较有里程碑意义的事而。&lt;/p>
+&lt;p>残障者虽身有残疾，但是这不是你应当不努力的理由，残障者应当比普通人更明白痛苦和劫难。“宝剑锋从磨砺出，梅花香自苦寒来”。愿我们共同努力，相互共勉，在祖国母亲的呵护下，沐浴祖国改革开放的伟大成就，做一名终身学习者、追求生活的强者。&lt;/p></content><category scheme="https://xiaodinlog.xyz/categories/%E6%8A%95%E7%A8%BF/" term="投稿" label="投稿"/><category scheme="https://xiaodinlog.xyz/tags/%E5%8D%9A%E5%AE%A2/" term="博客" label="博客"/><category scheme="https://xiaodinlog.xyz/tags/%E6%8A%95%E7%A8%BF/" term="投稿" label="投稿"/></entry><entry><title type="text">笔记： 如何维护 NVDA 社区本地化翻译</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/nvda-localization/"/><id>https://xiaodinlog.xyz/post/nvda-localization/</id><updated>2020-04-02T09:45:22+08:00</updated><published>2020-04-02T09:45:22+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">记录开源屏幕阅读器 NVDA 是如何维护翻译的。</summary><content type="html">&lt;h2 id="如何维护nvda社区本地化翻译">如何维护NVDA社区本地化翻译&lt;/h2>
+&lt;ul>
+&lt;li>NVDA是一套开放源代码的屏幕阅读器,他可以被翻译成多种国家的语言,下面就已问答的形式来讲讲刚进入NVDA SVN翻译团队的新成员,怎么进入NVDA翻译维护的世界:
+问:&lt;/li>
+&lt;li>我已经加入了官方svn翻译团队,有了上传权限,接下来我应该准备一些什么工具?
+答:&lt;/li>
+&lt;li>工欲善其事,必先利其器.下面就讲一讲在NVDA的翻译过程中,所需要的一些常用工具:
+TortoiseSVN:&lt;/li>
+&lt;li>TortoiseSVN 是 Apache Subversion（SVN）的客户端工具之一,TortoiseSVN 在NVDA的翻译过程中,主要是启着获取官方最新的翻译文件,和同步翻译条目到官方svn存储库的绝色。
+&lt;a href="https://tortoisesvn.net/downloads.zh.html">TortoiseSVN 安装包 语言包下载&lt;/a>
+poedit:&lt;/li>
+&lt;li>Poedit 是 Gettext Translations Editor 的本地化编辑器,主要是编辑.po的翻译格式文件,poedit在NVDA的翻译过程中,主要是起着翻译NVDA主界面(nvda.po),和NVDA插件的绝色。
+&lt;a href="https://poedit.net/download">poedit下载&lt;/a>
 文本编辑器:
-&lt;a href=&#34;https://notepad-plus-plus.org/downloads/&#34;&gt;notepad++&lt;/a&gt;
-&lt;a href=&#34;https://akelpad.sourceforge.net/en/download.php&#34;&gt;AkelPad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;任选一款安装使用
-问:&lt;/li&gt;
-&lt;li&gt;为什么要另外安装编辑器呢?使用windows 系统默认编辑器不行吗?
-答:&lt;/li&gt;
-&lt;li&gt;在NVDA的翻译过程中,编辑器也是不可缺少的一部分,编辑器主要是编辑NVDA的日志文件(changes.t2t),和NVDA的日志文件(userGuide.t2t),以即符号文件(symbols.dic),另外还有控制选择插件翻译的文件(settings)。&lt;/li&gt;
-&lt;li&gt;至于为什么不能使用windows 的默认编辑器,是因为在使用windows 默认编辑器编辑上数文件的过程中,编辑玩,使用windows 默认编辑器保存文件以后,有可能会丢失一些字符,所以在翻译NVDA的过程中不推荐使用 windows 默认的编辑器.另，假如你是windows10-1903的系统的话，就可以直接编辑文件了，因为从windows1903以后的记事本已经解决了字符集的问题。
-问:&lt;/li&gt;
-&lt;li&gt;工具都安装完了,下面应该做什么呢?
-答:&lt;/li&gt;
-&lt;li&gt;工具都准备玩以后,接下来就是 checkout NVDA翻译目录了。&lt;/li&gt;
-&lt;li&gt;首先打开桌面的此电脑,这是windows10的资源管理器的名称假如是windows7那么就是打开计算机,随便找一个磁盘进去,然后打开context menu菜单,找到(SVN Checkout...),打开这时候会出现输入 checkout URL地址的文本框,这时候输入&lt;a href=&#34;https://subversion.assembla.com/svn/screenReaderTranslations&#34;&gt;地址&lt;/a&gt;,然后ok 开始 checkout NVDA的翻译工作目录.&lt;/li&gt;
-&lt;li&gt;一段时间过后,NVDA的翻译目录就 checkout 到电脑上了.
-问:&lt;/li&gt;
-&lt;li&gt;哇,这么多目录,这些目录都有什么作用呢?里面的文件又是做什么的呢?
-答:&lt;/li&gt;
-&lt;li&gt;checkout玩NVDA翻译工作目录以后,这时候会在你选择的checkout位置出现一个名维(screenReaderTranslations)的目录,大小差不多在321MB左右.&lt;/li&gt;
-&lt;li&gt;我们打开,这时候可以看到如下目录:
+&lt;a href="https://notepad-plus-plus.org/downloads/">notepad++&lt;/a>
+&lt;a href="https://akelpad.sourceforge.net/en/download.php">AkelPad&lt;/a>&lt;/li>
+&lt;li>任选一款安装使用
+问:&lt;/li>
+&lt;li>为什么要另外安装编辑器呢?使用windows 系统默认编辑器不行吗?
+答:&lt;/li>
+&lt;li>在NVDA的翻译过程中,编辑器也是不可缺少的一部分,编辑器主要是编辑NVDA的日志文件(changes.t2t),和NVDA的日志文件(userGuide.t2t),以即符号文件(symbols.dic),另外还有控制选择插件翻译的文件(settings)。&lt;/li>
+&lt;li>至于为什么不能使用windows 的默认编辑器,是因为在使用windows 默认编辑器编辑上数文件的过程中,编辑玩,使用windows 默认编辑器保存文件以后,有可能会丢失一些字符,所以在翻译NVDA的过程中不推荐使用 windows 默认的编辑器.另，假如你是windows10-1903的系统的话，就可以直接编辑文件了，因为从windows1903以后的记事本已经解决了字符集的问题。
+问:&lt;/li>
+&lt;li>工具都安装完了,下面应该做什么呢?
+答:&lt;/li>
+&lt;li>工具都准备玩以后,接下来就是 checkout NVDA翻译目录了。&lt;/li>
+&lt;li>首先打开桌面的此电脑,这是windows10的资源管理器的名称假如是windows7那么就是打开计算机,随便找一个磁盘进去,然后打开context menu菜单,找到(SVN Checkout...),打开这时候会出现输入 checkout URL地址的文本框,这时候输入&lt;a href="https://subversion.assembla.com/svn/screenReaderTranslations">地址&lt;/a>,然后ok 开始 checkout NVDA的翻译工作目录.&lt;/li>
+&lt;li>一段时间过后,NVDA的翻译目录就 checkout 到电脑上了.
+问:&lt;/li>
+&lt;li>哇,这么多目录,这些目录都有什么作用呢?里面的文件又是做什么的呢?
+答:&lt;/li>
+&lt;li>checkout玩NVDA翻译工作目录以后,这时候会在你选择的checkout位置出现一个名维(screenReaderTranslations)的目录,大小差不多在321MB左右.&lt;/li>
+&lt;li>我们打开,这时候可以看到如下目录:
 am
 an
 ar
@@ -287,34 +97,34 @@ ca
 ckb
 cs
 da
-de……&lt;/li&gt;
-&lt;li&gt;这么多目录,是各个国家的I18N代码,也就是存放各个国家NVDA翻译的地方.&lt;/li&gt;
-&lt;li&gt;其中(scripts)目录是存放NVDA同步翻译脚本,和NVDA翻译者邮件地址文件的地方,不推荐翻译维护者去随便修改.&lt;/li&gt;
-&lt;li&gt;外部目录就是这样,下面进入内部目录结构的介绍:&lt;/li&gt;
-&lt;li&gt;我们已(zh_CN)目录维例,首先找到并打开zh_CN目录,这时候我们可以看到如下目录和文件:&lt;/li&gt;
-&lt;li&gt;add-ons,此目录主要存放的是NVDA附加插件的翻译文件,当然是.po的.&lt;/li&gt;
-&lt;li&gt;changes-newRevisions,此目录主要是存放需要翻译的NVDA日志版本,其中翻译条目存放于wordDifferences.txt文本中,带家号的是需要翻译的条目.&lt;/li&gt;
-&lt;li&gt;symbols-newRevisions,此目录主要是存放需要翻译的NVDA符号版本,其中翻译条目存放于wordDifferences.txt文本中,带家号的是需要翻译的条目.&lt;/li&gt;
-&lt;li&gt;userGuide-newRevisions,此目录主要是存放需要翻译的NVDA用户指南版本,其中翻译条目存放于wordDifferences.txt文本中,带家号的是需要翻译的条目.&lt;/li&gt;
-&lt;li&gt;changes.html,此文件是翻译后的网页格式的日志文件.&lt;/li&gt;
-&lt;li&gt;changes.t2t,此文件是存储翻译的日志文件&lt;/li&gt;
-&lt;li&gt;characterDescriptions.dic,此文件是存储翻译的字典文件.&lt;/li&gt;
-&lt;li&gt;keyCommands.html,此文件是NVDA快捷键指南的网页&lt;/li&gt;
-&lt;li&gt;nvda.po,此文件是NVDA主界面的翻译文件.&lt;/li&gt;
-&lt;li&gt;settings,此文件是控制是否想接收附加插件翻译的文本文件.1是想翻译此插件,0是不想翻译此插件,插件名对应数字1或数字0.&lt;/li&gt;
-&lt;li&gt;symbols.dic,此文件是储存翻译的符号文件.&lt;/li&gt;
-&lt;li&gt;userGuide.html,此文件是翻译后的用户指南的网页格式的文件.&lt;/li&gt;
-&lt;li&gt;userGuide.t2t,此文件是存储翻译的用户指南文件.&lt;/li&gt;
-&lt;li&gt;userGuide-structureDifferences.txt,此文件主要记录了用户指南的修改行和列.&lt;/li&gt;
-&lt;li&gt;这就是目录结构.&lt;/li&gt;
-&lt;li&gt;哇,原来是这样,基本的我都明白了,那么有需要注意的一些问题吗?
-答:&lt;/li&gt;
-&lt;li&gt;为了可以更好的维护好NVDA的翻译,下面就讲一讲一些需要注意的问题.
-问题1:&lt;/li&gt;
-&lt;li&gt;在编辑翻译,和提交翻译之前切记要更新翻译目录,假如不更新,直接把修改好的翻译直接提交到官方,这时候会出现冲突,不仅你辛辛苦苦翻译的条目会功亏一篑,其他翻译者的也会被付之一炬,所以需要谨慎,一定要更新翻译目录.
-问题2:&lt;/li&gt;
-&lt;li&gt;在提交翻译的时候,尽量言简意赅的贴出你所修改的条目内容,或日志.&lt;/li&gt;
-&lt;li&gt;基本的注意事项就这些,以后文章会不定期的增删改内容,和不断完善的.
+de……&lt;/li>
+&lt;li>这么多目录,是各个国家的I18N代码,也就是存放各个国家NVDA翻译的地方.&lt;/li>
+&lt;li>其中(scripts)目录是存放NVDA同步翻译脚本,和NVDA翻译者邮件地址文件的地方,不推荐翻译维护者去随便修改.&lt;/li>
+&lt;li>外部目录就是这样,下面进入内部目录结构的介绍:&lt;/li>
+&lt;li>我们已(zh_CN)目录维例,首先找到并打开zh_CN目录,这时候我们可以看到如下目录和文件:&lt;/li>
+&lt;li>add-ons,此目录主要存放的是NVDA附加插件的翻译文件,当然是.po的.&lt;/li>
+&lt;li>changes-newRevisions,此目录主要是存放需要翻译的NVDA日志版本,其中翻译条目存放于wordDifferences.txt文本中,带家号的是需要翻译的条目.&lt;/li>
+&lt;li>symbols-newRevisions,此目录主要是存放需要翻译的NVDA符号版本,其中翻译条目存放于wordDifferences.txt文本中,带家号的是需要翻译的条目.&lt;/li>
+&lt;li>userGuide-newRevisions,此目录主要是存放需要翻译的NVDA用户指南版本,其中翻译条目存放于wordDifferences.txt文本中,带家号的是需要翻译的条目.&lt;/li>
+&lt;li>changes.html,此文件是翻译后的网页格式的日志文件.&lt;/li>
+&lt;li>changes.t2t,此文件是存储翻译的日志文件&lt;/li>
+&lt;li>characterDescriptions.dic,此文件是存储翻译的字典文件.&lt;/li>
+&lt;li>keyCommands.html,此文件是NVDA快捷键指南的网页&lt;/li>
+&lt;li>nvda.po,此文件是NVDA主界面的翻译文件.&lt;/li>
+&lt;li>settings,此文件是控制是否想接收附加插件翻译的文本文件.1是想翻译此插件,0是不想翻译此插件,插件名对应数字1或数字0.&lt;/li>
+&lt;li>symbols.dic,此文件是储存翻译的符号文件.&lt;/li>
+&lt;li>userGuide.html,此文件是翻译后的用户指南的网页格式的文件.&lt;/li>
+&lt;li>userGuide.t2t,此文件是存储翻译的用户指南文件.&lt;/li>
+&lt;li>userGuide-structureDifferences.txt,此文件主要记录了用户指南的修改行和列.&lt;/li>
+&lt;li>这就是目录结构.&lt;/li>
+&lt;li>哇,原来是这样,基本的我都明白了,那么有需要注意的一些问题吗?
+答:&lt;/li>
+&lt;li>为了可以更好的维护好NVDA的翻译,下面就讲一讲一些需要注意的问题.
+问题1:&lt;/li>
+&lt;li>在编辑翻译,和提交翻译之前切记要更新翻译目录,假如不更新,直接把修改好的翻译直接提交到官方,这时候会出现冲突,不仅你辛辛苦苦翻译的条目会功亏一篑,其他翻译者的也会被付之一炬,所以需要谨慎,一定要更新翻译目录.
+问题2:&lt;/li>
+&lt;li>在提交翻译的时候,尽量言简意赅的贴出你所修改的条目内容,或日志.&lt;/li>
+&lt;li>基本的注意事项就这些,以后文章会不定期的增删改内容,和不断完善的.
 问：
 中文本地化和其他语言有什么不同？
 答：
@@ -327,258 +137,122 @@ de……&lt;/li&gt;
 7、请尽量保留原文格式；
 8、当遇到不知为何物的单词或者词组，应该想办法查资料，比如翻找各类百科，用搜索引擎，或者是其他有相关讨论的主题等等，直到确定翻译的意思唯一；
 9、查资料之后仍然不知道怎么办，请询问其他有经验的朋友寻求帮助；
-附录:&lt;/li&gt;
-&lt;li&gt;下面附上TortoiseSVN,NVDA等官方的翻译指南的网页地址:
-&lt;a href=&#34;https://tortoisesvn.net/docs/release/TortoiseSVN_zh_CN/index.html&#34;&gt;TortoiseSVN简体中文文档&lt;/a&gt;
-&lt;a href=&#34;https://github.com/nvaccess/nvda/wiki/Translating&#34;&gt;NVDA官方翻译文档&lt;/a&gt;
-&lt;a href=&#34;https://poedit.net/trac/wiki/Doc?fromVersion=2.0.7&#34;&gt;poedit翻译工具帮助文档&lt;/a&gt;
-ps：&lt;/li&gt;
-&lt;li&gt;这篇文章写于去年，用途主要是给新的 NVDA 翻译志愿者已入门。&lt;/li&gt;
-&lt;li&gt;告诉他们如何维护 NVDA 的中文翻译。&lt;/li&gt;
-&lt;li&gt;其中的不足之处可能就是符号了，还有就是有的一些地方没有说清楚。&lt;/li&gt;
-&lt;/ul&gt;</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/categories/%E7%AC%94%E8%AE%B0/" term="笔记" label="笔记" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/nvda/" term="NVDA" label="NVDA" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/localization/" term="Localization" label="Localization" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">部署博客</title>
-            <link rel="alternate" type="text/html" href="https://dpy013.gitee.io/post/deploy-blog/" />
-            <id>https://dpy013.gitee.io/post/deploy-blog/</id>
-            <updated>2020-04-01T07:56:10&#43;08:00</updated>
-            <published>2020-04-01T07:56:10&#43;08:00</published>
-            <author>
-                    <name>xiaodinlog</name>
-                    <uri>https://xiaodinlog.xyz/</uri>
-                    <email>dingpengyu06@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">记录博客搭建的全过程</summary>
-            
-                <content type="html">&lt;p&gt;上篇博文最后提到了部署博客，这篇文章就记录一下博客部署过程。&lt;/p&gt;
-&lt;h2 id=&#34;11事先准备&#34;&gt;1.1：事先准备&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;首先从&lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;hugo-github-release页面&lt;/a&gt;下载hugo_extended_0.68.3_Windows-64bit.zip。&lt;/li&gt;
-&lt;li&gt;下载好hugo_extended_0.68.3_Windows-64bit.zip后，使用7zip解压到您想存的地方。&lt;/li&gt;
-&lt;li&gt;然后去控制面板\系统和安全\系统/高级系统设置/环境变量添加hugo的环境变量，安装即可完成。&lt;/li&gt;
-&lt;li&gt;最后打开cmd使用以下命令测试您的hugo是否安装成功？
-&lt;code&gt;hugo version&lt;/code&gt;
+附录:&lt;/li>
+&lt;li>下面附上TortoiseSVN,NVDA等官方的翻译指南的网页地址:
+&lt;a href="https://tortoisesvn.net/docs/release/TortoiseSVN_zh_CN/index.html">TortoiseSVN简体中文文档&lt;/a>
+&lt;a href="https://github.com/nvaccess/nvda/wiki/Translating">NVDA官方翻译文档&lt;/a>
+&lt;a href="https://poedit.net/trac/wiki/Doc?fromVersion=2.0.7">poedit翻译工具帮助文档&lt;/a>
+ps：&lt;/li>
+&lt;li>这篇文章写于去年，用途主要是给新的 NVDA 翻译志愿者已入门。&lt;/li>
+&lt;li>告诉他们如何维护 NVDA 的中文翻译。&lt;/li>
+&lt;li>其中的不足之处可能就是符号了，还有就是有的一些地方没有说清楚。&lt;/li>
+&lt;/ul></content><category scheme="https://xiaodinlog.xyz/categories/%E7%AC%94%E8%AE%B0/" term="笔记" label="笔记"/><category scheme="https://xiaodinlog.xyz/tags/nvda/" term="NVDA" label="NVDA"/><category scheme="https://xiaodinlog.xyz/tags/localization/" term="Localization" label="Localization"/></entry><entry><title type="text">部署博客</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/deploy-blog/"/><id>https://xiaodinlog.xyz/post/deploy-blog/</id><updated>2020-04-01T07:56:10+08:00</updated><published>2020-04-01T07:56:10+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">记录博客搭建的全过程</summary><content type="html">&lt;p>上篇博文最后提到了部署博客，这篇文章就记录一下博客部署过程。&lt;/p>
+&lt;h2 id="11事先准备">1.1：事先准备&lt;/h2>
+&lt;ul>
+&lt;li>首先从&lt;a href="https://github.com/gohugoio/hugo/releases">hugo-github-release页面&lt;/a>下载hugo_extended_0.68.3_Windows-64bit.zip。&lt;/li>
+&lt;li>下载好hugo_extended_0.68.3_Windows-64bit.zip后，使用7zip解压到您想存的地方。&lt;/li>
+&lt;li>然后去控制面板\系统和安全\系统/高级系统设置/环境变量添加hugo的环境变量，安装即可完成。&lt;/li>
+&lt;li>最后打开cmd使用以下命令测试您的hugo是否安装成功？
+&lt;code>hugo version&lt;/code>
 运行以上命令， cmd 打印出以下信息， hugo 安装即可完成。
-&lt;code&gt;Hugo Static Site Generator v0.68.3/extended windows/amd64 BuildDate: unknown&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;12博客创建和配置&#34;&gt;1.2：博客创建和配置&lt;/h2&gt;
-&lt;p&gt;完成上一步接下来激动人心的创建和配置就开始了，真的有一点而激动呢！&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;首先打开Git Bash确认博客保存的位置，我这里已磁盘c维例。&lt;/li&gt;
-&lt;li&gt;输入以下命令创建博客目录，并初始化博客目录结构。
-&lt;code&gt;cd c:/&lt;/code&gt;
-&lt;code&gt;hugo new site blog&lt;/code&gt;
-&lt;code&gt;cd c:/blog&lt;/code&gt;
-&lt;code&gt;git init&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;输入命令的一瞬间，说真的很快，hugo博客的基本框架就创建好了。&lt;/li&gt;
-&lt;li&gt;创建完的博客并不是马上就可以用的。&lt;/li&gt;
-&lt;li&gt;需要去下载一个博客主题才可以跑起来。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://themes.gohugo.io&#34;&gt;Complete List | Hugo Themes&lt;/a&gt;，这是hugo官方提供的主题集合网站，有很多的主题可以选择使用。&lt;/li&gt;
-&lt;li&gt;这是我用的hugo 主题 &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane&#34;&gt;Jane&lt;/a&gt;
-打开主题项目页后，首先Fork一份主题到您的Github账号下。&lt;/li&gt;
-&lt;li&gt;然后回到您的Github找到您刚刚Fork的主题，找到Clone or download 按钮展开复制其中的地址。&lt;/li&gt;
-&lt;li&gt;不管是https，还是ssh都可以。&lt;/li&gt;
-&lt;li&gt;使用以下命令添加主题：
-&lt;code&gt;git submodule add https://github.com/xianmin/hugo-theme-jane themes/jane&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;一段时间后，blog/themes目录中就有了刚刚添加的主题了。&lt;/li&gt;
-&lt;li&gt;注意： 添加的 Git 子模块是独立于 blog的版本管理的，总的来说就是博客目录现在有两个 Git 项目。&lt;/li&gt;
-&lt;li&gt;然后从/themes/jane目录的exampleSite中复制full-config.toml配置文件到博客根目录，替换原来的config.toml。&lt;/li&gt;
-&lt;li&gt;注意别忘了重命名维config.toml哦。&lt;/li&gt;
-&lt;li&gt;以下是我个人的&lt;a href=&#34;https://github.com/dingpengyu/blog/blob/master/config.toml&#34;&gt;博客配置&lt;/a&gt;，仅供读者参考。&lt;/li&gt;
-&lt;li&gt;经过以上的配置，一个本地的静态博客就创建和配置完成了。&lt;/li&gt;
-&lt;li&gt;使用命令 hugo server -D&lt;/li&gt;
-&lt;li&gt;打开浏览器，输入 localhost:1313 即可预览。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;13部署博客到github-pages&#34;&gt;1.3：部署博客到github pages&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;这是博客部署意文的最后一部，将创建的静态博客部署到 github pages。&lt;/li&gt;
-&lt;li&gt;首先创建 github_pages_TOKEN 后面要用&lt;/li&gt;
-&lt;li&gt;打开 Git Bash 将位置定位到磁盘C。&lt;/li&gt;
-&lt;li&gt;输入以下命令生成 ssh key：
-&lt;code&gt;ssh-keygen -f github-deploy-key&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;一路回车即可，注意在生成的过程中别输入密码。&lt;/li&gt;
-&lt;li&gt;这时候磁盘c会出现两个文件，分别是： github_pages_TOKEN和github_pages_TOKEN.pub。&lt;/li&gt;
-&lt;li&gt;github_pages_TOKEN是私钥，github_pages_TOKEN.pub是公钥。&lt;/li&gt;
-&lt;li&gt;接着打开&lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt;，创建example存储库。&lt;/li&gt;
-&lt;li&gt;打开 &lt;a href=&#34;https://github.com/example/example/settings&#34;&gt;settings&lt;/a&gt;找到&lt;a href=&#34;https://github.com/example/example/settings/secrets&#34;&gt;Secrets&lt;/a&gt;和&lt;a href=&#34;https://github.com/example/example/settings/keys&#34;&gt;Deploy&lt;/a&gt;。&lt;/li&gt;
-&lt;li&gt;将 github_pages_TOKEN私密钥添加到Secrets，将github_pages_TOKEN.pub公钥添加到Deploy keys。&lt;/li&gt;
-&lt;li&gt;在博客根目录创建.github目录和workflows目录。&lt;/li&gt;
-&lt;li&gt;注意workflows目录在.github里面。&lt;/li&gt;
-&lt;li&gt;创建 github pages.yml文件。&lt;/li&gt;
-&lt;li&gt;粘贴以下配置并提交到创建的 example 存储库。
-`name: github pages&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;on:
+&lt;code>Hugo Static Site Generator v0.68.3/extended windows/amd64 BuildDate: unknown&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="12博客创建和配置">1.2：博客创建和配置&lt;/h2>
+&lt;p>完成上一步接下来激动人心的创建和配置就开始了，真的有一点而激动呢！&lt;/p>
+&lt;ul>
+&lt;li>首先打开Git Bash确认博客保存的位置，我这里已磁盘c维例。&lt;/li>
+&lt;li>输入以下命令创建博客目录，并初始化博客目录结构。
+&lt;code>cd c:/&lt;/code>
+&lt;code>hugo new site blog&lt;/code>
+&lt;code>cd c:/blog&lt;/code>
+&lt;code>git init&lt;/code>&lt;/li>
+&lt;li>输入命令的一瞬间，说真的很快，hugo博客的基本框架就创建好了。&lt;/li>
+&lt;li>创建完的博客并不是马上就可以用的。&lt;/li>
+&lt;li>需要去下载一个博客主题才可以跑起来。&lt;/li>
+&lt;li>&lt;a href="https://themes.gohugo.io">Complete List | Hugo Themes&lt;/a>，这是hugo官方提供的主题集合网站，有很多的主题可以选择使用。&lt;/li>
+&lt;li>这是我用的hugo 主题 &lt;a href="https://github.com/xianmin/hugo-theme-jane">Jane&lt;/a>
+打开主题项目页后，首先Fork一份主题到您的Github账号下。&lt;/li>
+&lt;li>然后回到您的Github找到您刚刚Fork的主题，找到Clone or download 按钮展开复制其中的地址。&lt;/li>
+&lt;li>不管是https，还是ssh都可以。&lt;/li>
+&lt;li>使用以下命令添加主题：
+&lt;code>git submodule add https://github.com/xianmin/hugo-theme-jane themes/jane&lt;/code>&lt;/li>
+&lt;li>一段时间后，blog/themes目录中就有了刚刚添加的主题了。&lt;/li>
+&lt;li>注意： 添加的 Git 子模块是独立于 blog的版本管理的，总的来说就是博客目录现在有两个 Git 项目。&lt;/li>
+&lt;li>然后从/themes/jane目录的exampleSite中复制full-config.toml配置文件到博客根目录，替换原来的config.toml。&lt;/li>
+&lt;li>注意别忘了重命名维config.toml哦。&lt;/li>
+&lt;li>以下是我个人的&lt;a href="https://github.com/dingpengyu/blog/blob/master/config.toml">博客配置&lt;/a>，仅供读者参考。&lt;/li>
+&lt;li>经过以上的配置，一个本地的静态博客就创建和配置完成了。&lt;/li>
+&lt;li>使用命令 hugo server -D&lt;/li>
+&lt;li>打开浏览器，输入 localhost:1313 即可预览。&lt;/li>
+&lt;/ul>
+&lt;h2 id="13部署博客到github-pages">1.3：部署博客到github pages&lt;/h2>
+&lt;ul>
+&lt;li>这是博客部署意文的最后一部，将创建的静态博客部署到 github pages。&lt;/li>
+&lt;li>首先创建 github_pages_TOKEN 后面要用&lt;/li>
+&lt;li>打开 Git Bash 将位置定位到磁盘C。&lt;/li>
+&lt;li>输入以下命令生成 ssh key：
+&lt;code>ssh-keygen -f github-deploy-key&lt;/code>&lt;/li>
+&lt;li>一路回车即可，注意在生成的过程中别输入密码。&lt;/li>
+&lt;li>这时候磁盘c会出现两个文件，分别是： github_pages_TOKEN和github_pages_TOKEN.pub。&lt;/li>
+&lt;li>github_pages_TOKEN是私钥，github_pages_TOKEN.pub是公钥。&lt;/li>
+&lt;li>接着打开&lt;a href="https://github.com">Github&lt;/a>，创建example存储库。&lt;/li>
+&lt;li>打开 &lt;a href="https://github.com/example/example/settings">settings&lt;/a>找到&lt;a href="https://github.com/example/example/settings/secrets">Secrets&lt;/a>和&lt;a href="https://github.com/example/example/settings/keys">Deploy&lt;/a>。&lt;/li>
+&lt;li>将 github_pages_TOKEN私密钥添加到Secrets，将github_pages_TOKEN.pub公钥添加到Deploy keys。&lt;/li>
+&lt;li>在博客根目录创建.github目录和workflows目录。&lt;/li>
+&lt;li>注意workflows目录在.github里面。&lt;/li>
+&lt;li>创建 github pages.yml文件。&lt;/li>
+&lt;li>粘贴以下配置并提交到创建的 example 存储库。
+`name: github pages&lt;/li>
+&lt;/ul>
+&lt;p>on:
 push:
 branches:
-- master&lt;/p&gt;
-&lt;p&gt;jobs:
+- master&lt;/p>
+&lt;p>jobs:
 deploy:
 runs-on: ubuntu-latest
 steps:
 - uses: actions/checkout@v2
 with:
-submodules: true&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  - name: Setup Hugo
-    uses: peaceiris/actions-hugo@v2
-    with:
-      hugo-version: &#39;latest&#39;
-      extended: true
-
-  - name: Build
-    run: hugo --minify
-
-  - name: Deploy
-    uses: peaceiris/actions-gh-pages@v3
-    with:
-      deploy_key: ${{ secrets.github_pages_TOKEN }}
-      publish_dir: ./public
-      UserName: example
-      UserEmail: example@users.noreply.github.com
-      CNAME: www.example.com`
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;14最后想说的话&#34;&gt;1.4：最后想说的话&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;文章就到这里结束了，写的磕磕绊绊的。&lt;/li&gt;
-&lt;li&gt;有可能还有引用的代码无法高量的问题。&lt;/li&gt;
-&lt;li&gt;这是第一篇正规的博文。&lt;/li&gt;
-&lt;li&gt;也许还有很多需要完善的地方。&lt;/li&gt;
-&lt;/ul&gt;</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/categories/%E7%AC%94%E8%AE%B0/" term="笔记" label="笔记" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/deploy/" term="deploy" label="deploy" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/hugo/" term="hugo" label="hugo" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/blog/" term="blog" label="blog" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">博客的用途</title>
-            <link rel="alternate" type="text/html" href="https://dpy013.gitee.io/post/hello/" />
-            <id>https://dpy013.gitee.io/post/hello/</id>
-            <updated>2020-03-28T11:18:11&#43;08:00</updated>
-            <published>2020-03-28T11:18:11&#43;08:00</published>
-            <author>
-                    <name>xiaodinlog</name>
-                    <uri>https://xiaodinlog.xyz/</uri>
-                    <email>dingpengyu06@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">……</summary>
-            
-                <content type="html">&lt;ul&gt;
-&lt;li&gt;其实创建一个笔记形的静态站由来已久了：&lt;/li&gt;
-&lt;li&gt;去年的时候就觉得，学了忘，忘了学不是个办法。&lt;/li&gt;
-&lt;li&gt;于是就想到了创建个静态站记录一下学习过程，以防以后忘了好进行查找。&lt;/li&gt;
-&lt;li&gt;刚开始的时候安装了很多的静态网站程序，不知选哪个适合自己才好。&lt;/li&gt;
-&lt;li&gt;于是，我选了这几款静态网站程序做了体验： &lt;a href=&#34;https://hexo.io&#34;&gt;hexo&lt;/a&gt;、&lt;a href=&#34;https://jekyllrb.com&#34;&gt;jekyll&lt;/a&gt;、&lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;谈谈我个人的体验吧！&lt;/li&gt;
-&lt;li&gt;首先谈谈jekyll：&lt;/li&gt;
-&lt;li&gt;jekyll在使用过程中是要安装ruby环境的，我在体验的过程中发现ruby环境安装体积很大，jekyll上手入门成本比较高。写文章时可能会用到html。
+submodules: true&lt;/p>
+&lt;pre>&lt;code> - name: Setup Hugo
+uses: peaceiris/actions-hugo@v2
+with:
+hugo-version: 'latest'
+extended: true
+- name: Build
+run: hugo --minify
+- name: Deploy
+uses: peaceiris/actions-gh-pages@v3
+with:
+deploy_key: ${{ secrets.github_pages_TOKEN }}
+publish_dir: ./public
+UserName: example
+UserEmail: example@users.noreply.github.com
+CNAME: www.example.com`
+&lt;/code>&lt;/pre>
+&lt;h2 id="14最后想说的话">1.4：最后想说的话&lt;/h2>
+&lt;ul>
+&lt;li>文章就到这里结束了，写的磕磕绊绊的。&lt;/li>
+&lt;li>有可能还有引用的代码无法高量的问题。&lt;/li>
+&lt;li>这是第一篇正规的博文。&lt;/li>
+&lt;li>也许还有很多需要完善的地方。&lt;/li>
+&lt;/ul></content><category scheme="https://xiaodinlog.xyz/categories/%E7%AC%94%E8%AE%B0/" term="笔记" label="笔记"/><category scheme="https://xiaodinlog.xyz/tags/deploy/" term="deploy" label="deploy"/><category scheme="https://xiaodinlog.xyz/tags/hugo/" term="hugo" label="hugo"/><category scheme="https://xiaodinlog.xyz/tags/blog/" term="blog" label="blog"/></entry><entry><title type="text">博客的用途</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/hello/"/><id>https://xiaodinlog.xyz/post/hello/</id><updated>2020-03-28T11:18:11+08:00</updated><published>2020-03-28T11:18:11+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">……</summary><content type="html">&lt;ul>
+&lt;li>其实创建一个笔记形的静态站由来已久了：&lt;/li>
+&lt;li>去年的时候就觉得，学了忘，忘了学不是个办法。&lt;/li>
+&lt;li>于是就想到了创建个静态站记录一下学习过程，以防以后忘了好进行查找。&lt;/li>
+&lt;li>刚开始的时候安装了很多的静态网站程序，不知选哪个适合自己才好。&lt;/li>
+&lt;li>于是，我选了这几款静态网站程序做了体验： &lt;a href="https://hexo.io">hexo&lt;/a>、&lt;a href="https://jekyllrb.com">jekyll&lt;/a>、&lt;a href="https://gohugo.io">hugo&lt;/a>&lt;/li>
+&lt;li>谈谈我个人的体验吧！&lt;/li>
+&lt;li>首先谈谈jekyll：&lt;/li>
+&lt;li>jekyll在使用过程中是要安装ruby环境的，我在体验的过程中发现ruby环境安装体积很大，jekyll上手入门成本比较高。写文章时可能会用到html。
 另外不知道是我运气不好，还是不知道是什么原因，在使用jekyll的过程中，文章修改完经常报错。
-很快jekyll就从我电脑中消失了。&lt;/li&gt;
-&lt;li&gt;接着谈谈hexo：*&lt;/li&gt;
-&lt;li&gt;其实hexo是一款很不错的静态网站生成器，基于nodejs，灵活性高，社区完善度好，但是他唯一的不足之处可能是我个人的原因吧！hexo安装的nodejs模块实在是太多了。这款网站生成器又没有留在我的电脑上很久时间就从我电脑消失了。&lt;/li&gt;
-&lt;li&gt;最后谈谈重头戏hugo：&lt;/li&gt;
-&lt;li&gt;hugo在我的体验过程中让我很惊验，首先hugo的官方社区很繁荣，其次是hugo部署起来很方便，一个执行文件解决问题，当然可能麻烦的问题应该是配置windows变量比较复杂但是比jekyll和hexo要好得多了。&lt;/li&gt;
-&lt;li&gt;这就是我想要的，我当时心里很高兴，于是我就选了最后一个hugo。&lt;/li&gt;
-&lt;li&gt;接下来就是折腾了，经过了官方文档的学习，就有了这个简单的页面&lt;/li&gt;
-&lt;li&gt;这就是博客的由来，下面写写怎么部署。&lt;/li&gt;
-&lt;/ul&gt;</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/categories/%E7%AC%94%E8%AE%B0/" term="笔记" label="笔记" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://dpy013.gitee.io/tags/notebook/" term="Notebook" label="Notebook" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-</feed>
+很快jekyll就从我电脑中消失了。&lt;/li>
+&lt;li>接着谈谈hexo：*&lt;/li>
+&lt;li>其实hexo是一款很不错的静态网站生成器，基于nodejs，灵活性高，社区完善度好，但是他唯一的不足之处可能是我个人的原因吧！hexo安装的nodejs模块实在是太多了。这款网站生成器又没有留在我的电脑上很久时间就从我电脑消失了。&lt;/li>
+&lt;li>最后谈谈重头戏hugo：&lt;/li>
+&lt;li>hugo在我的体验过程中让我很惊验，首先hugo的官方社区很繁荣，其次是hugo部署起来很方便，一个执行文件解决问题，当然可能麻烦的问题应该是配置windows变量比较复杂但是比jekyll和hexo要好得多了。&lt;/li>
+&lt;li>这就是我想要的，我当时心里很高兴，于是我就选了最后一个hugo。&lt;/li>
+&lt;li>接下来就是折腾了，经过了官方文档的学习，就有了这个简单的页面&lt;/li>
+&lt;li>这就是博客的由来，下面写写怎么部署。&lt;/li>
+&lt;/ul></content><category scheme="https://xiaodinlog.xyz/categories/%E7%AC%94%E8%AE%B0/" term="笔记" label="笔记"/><category scheme="https://xiaodinlog.xyz/tags/notebook/" term="Notebook" label="Notebook"/></entry></feed>
