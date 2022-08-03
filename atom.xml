@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">小丁日志</title>
     <subtitle type="html">记录学习和生活。</subtitle>
-    <updated>2022-08-01T20:25:50&#43;00:00</updated>
+    <updated>2022-08-03T12:26:08&#43;00:00</updated>
     <id>https://dpy013.gitee.io/</id>
     <link rel="alternate" type="text/html" href="https://dpy013.gitee.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://dpy013.gitee.io/atom.xml" />
@@ -16,6 +16,81 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+        <entry>
+            <title type="text">Office 地址整理</title>
+            <link rel="alternate" type="text/html" href="https://dpy013.gitee.io/post/officeurlsorting/" />
+            <id>https://dpy013.gitee.io/post/officeurlsorting/</id>
+            <updated>2022-08-03T20:10:30&#43;08:00</updated>
+            <published>2022-08-03T20:10:30&#43;08:00</published>
+            <author>
+                    <name>xiaodinlog</name>
+                    <uri>https://xiaodinlog.xyz/</uri>
+                    <email>dingpengyu06@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">&lt;p&gt;office 辅助功能方面的资料&lt;/p&gt;……</summary>
+            
+                <content type="html">&lt;p&gt;office 辅助功能方面的资料&lt;/p&gt;
+&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;为了自己能够更好的学习&lt;a href=&#34;https://office.com&#34;&gt;Office&lt;/a&gt;特意整理了相关的教程和快捷键，希望自己可以有所收获！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;microsoft-office-2016-辅助功能汇总&#34;&gt;Microsoft Office 2016 辅助功能汇总&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.office.com/zh-cn/client/%E5%9C%A8-word-%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%B1%8F%E5%B9%95%E9%98%85%E8%AF%BB%E5%99%A8%E6%89%A7%E8%A1%8C%E5%9F%BA%E6%9C%AC%E4%BB%BB%E5%8A%A1-3e47346a-7876-450e-bcbf-0a4fe6576981#picktab=windows?NS=WORD&amp;amp;Version=16&#34;&gt;在 Word 中使用屏幕阅读器执行基本任务&lt;/a&gt;
+&lt;a href=&#34;https://support.office.com/zh-cn/client/%E5%9C%A8-excel-%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%B1%8F%E5%B9%95%E9%98%85%E8%AF%BB%E5%99%A8%E6%89%A7%E8%A1%8C%E5%9F%BA%E6%9C%AC%E4%BB%BB%E5%8A%A1-6b275296-a377-4608-af7b-1571e2924a7c#picktab=windows?NS=WORD&amp;amp;Version=16&#34;&gt;在 Excel 中使用屏幕阅读器执行基本任务&lt;/a&gt;
+&lt;a href=&#34;https://support.office.com/zh-cn/client/powerpoint-%E7%9A%84%E8%BE%85%E5%8A%A9%E5%8A%9F%E8%83%BD%E6%94%AF%E6%8C%81-9d2b646d-0b79-4135-a570-b8c7ad33ac2f#picktab=windows?NS=POWERPNT&amp;amp;Version=16&#34;&gt;PowerPoint 的辅助功能支持&lt;/a&gt;
+&lt;a href=&#34;https://support.office.com/zh-cn/client/%E5%9C%A8-outlook-%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%B1%8F%E5%B9%95%E9%98%85%E8%AF%BB%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BB%BB%E5%8A%A1-3fe74ea4-b512-490f-bb42-95fdeb722b9e#picktab=windows?NS=OUTLOOK&amp;amp;Version=16&#34;&gt;在 Outlook 电子邮件中使用屏幕阅读器执行基本任务&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;microsoft-office-2016-快捷键汇总&#34;&gt;Microsoft Office 2016 快捷键汇总&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.office.com/zh-cn/client/Microsoft-Word-%E5%9C%A8-Windows-%E4%B8%8A%E7%9A%84%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F-95ef89dd-7142-4b50-afb2-f762f663ceb2?NS=WORD&amp;amp;Version=16&#34;&gt;Word&lt;/a&gt;
+&lt;a href=&#34;https://support.office.com/zh-cn/client/Excel-for-Windows-%E4%B8%AD%E7%9A%84%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F-1798d9d5-842a-42b8-9c99-9b7213f0040f?NS=WORD&amp;amp;Version=16&#34;&gt;Excel&lt;/a&gt;
+&lt;a href=&#34;https://support.office.com/zh-cn/client/%E4%BD%BF%E7%94%A8%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E5%88%9B%E5%BB%BA-PowerPoint-%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF-ebb3d20e-dcd4-444f-a38e-bb5c5ed180f4?NS=POWERPNT&amp;amp;Version=16&#34;&gt;PowerPoint&lt;/a&gt;
+&lt;a href=&#34;https://support.office.com/zh-cn/client/Outlook-%E7%9A%84%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd?NS=OUTLOOK&amp;amp;Version=16&#34;&gt;Outlook&lt;/a&gt;&lt;/p&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://dpy013.gitee.io/categories/office%E5%AD%A6%E4%B9%A0/" term="Office学习" label="Office学习" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://dpy013.gitee.io/tags/office/" term="Office" label="Office" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://dpy013.gitee.io/tags/%E8%BE%85%E5%8A%A9%E5%8A%9F%E8%83%BD/" term="辅助功能" label="辅助功能" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://dpy013.gitee.io/tags/url/" term="URL" label="URL" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://dpy013.gitee.io/tags/%E6%95%B4%E7%90%86/" term="整理" label="整理" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Chromium 浏览器下载整理</title>
             <link rel="alternate" type="text/html" href="https://dpy013.gitee.io/post/chromium-down/" />
