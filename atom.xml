@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">小丁日志</title><subtitle type="html">记录学习和生活。</subtitle><updated>2022-08-25T11:17:29+00:00</updated><id>https://xiaodinlog.xyz/</id><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/"/><link rel="self" type="application/atom+xml" href="https://xiaodinlog.xyz/atom.xml"/><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><entry><title type="text">REAPER整合包持续更新中，时间不定</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/reaper_integrationpack/"/><id>https://xiaodinlog.xyz/post/reaper_integrationpack/</id><updated>2022-08-24T11:54:13+08:00</updated><published>2022-08-24T11:54:13+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这是日常自用的REAPER整合包，有需要的可以拿走，假如有什么可以提升的可以在文章下评论。</summary><content type="html">&lt;h2 id="介绍">介绍&lt;/h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">小丁日志</title><subtitle type="html">记录学习和生活。</subtitle><updated>2022-08-25T12:34:43+00:00</updated><id>https://xiaodinlog.xyz/</id><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/"/><link rel="self" type="application/atom+xml" href="https://xiaodinlog.xyz/atom.xml"/><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator><entry><title type="text">分享博客的Actions部署代码</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/auto-deploy-blog/"/><id>https://xiaodinlog.xyz/post/auto-deploy-blog/</id><updated>2022-08-25T19:45:54+08:00</updated><published>2022-08-25T19:45:54+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">……</summary><content type="html">&lt;h2 id="介绍">介绍&lt;/h2>
+&lt;p>脚本主要实现了从生成到部署的全过程。
+下面就列一下执行的过程&lt;/p>
+&lt;ol>
+&lt;li>首先将 markdown 文件生成 .html 网页文件&lt;/li>
+&lt;li>将生成的文件部署到另一个 github 存储库&lt;/li>
+&lt;li>将生成的 html 静态文件部署到 gitee
+这样就此完成了所有的任务。&lt;/li>
+&lt;/ol>
+&lt;h3 id="具体代码">具体代码&lt;/h3>
+&lt;p>`
+name: github pages&lt;/p>
+&lt;p>on:
+push:
+branches:
+- main # Set a branch to deploy&lt;/p>
+&lt;p>jobs:
+deploy:
+runs-on: ubuntu-latest
+steps:
+- uses: actions/checkout@v2
+with:
+submodules: true # Fetch Hugo themes (true OR recursive)
+fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod&lt;/p>
+&lt;pre>&lt;code> - name: Setup Hugo
+uses: peaceiris/actions-hugo@v2
+with:
+hugo-version: 'latest'
+extended: true
+- name: Build
+run: hugo --minify
+- name: Deploy
+uses: peaceiris/actions-gh-pages@v3
+with:
+personal_token: ${{ secrets.PERSONAL_TOKEN }} # 这里替换您的GitHub key
+publish_dir: &amp;quot;./public&amp;quot;
+CNAME: &amp;quot;https://example.com&amp;quot; # 这里替换您的域名
+external_repository: &amp;quot;example/example&amp;quot; # 这里替换自己需要部署的GitHub存储库
+INFO PublishBranch: &amp;quot;gh-pages&amp;quot;
+&lt;/code>&lt;/pre>
+&lt;p>sync: #同步到gitee仓库
+needs: deploy
+runs-on: ubuntu-latest
+steps:
+- name: Sync to Gitee
+uses: wearerequired/git-mirror-action@master
+env:
+SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
+with:
+# 来源仓库
+source-repo: &amp;quot;git@github.com:example/example.git&amp;quot;
+# 目标仓库
+destination-repo: &amp;quot;git@gitee.com:/example/example.git&amp;quot;&lt;/p>
+&lt;p>reload-pages:
+needs: sync
+runs-on: ubuntu-latest
+steps:
+- name: Build Gitee Pages
+uses: yanglbme/gitee-pages-action@main
+with:
+# 注意替换为你的 Gitee 用户名
+gitee-username: &amp;quot;example&amp;quot;
+# 注意在 Settings-&amp;gt;Secrets 配置 GITEE_PASSWORD
+gitee-password: ${{ secrets.GITEE_PASSWORD }}
+# 注意替换为你的 Gitee 仓库，仓库名严格区分大小写，请准确填写，否则会出错
+gitee-repo: &amp;quot;example/example&amp;quot;
+# 要部署的分支，默认是 master，若是其他分支，则需要指定（指定的分支必须存在）
+branch: gh-pages
+`&lt;/p></content><category scheme="https://xiaodinlog.xyz/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/" term="个人作品" label="个人作品"/><category scheme="https://xiaodinlog.xyz/tags/auto/" term="auto" label="auto"/><category scheme="https://xiaodinlog.xyz/tags/deploy/" term="deploy" label="deploy"/><category scheme="https://xiaodinlog.xyz/tags/hugo/" term="hugo" label="hugo"/><category scheme="https://xiaodinlog.xyz/tags/blog/" term="blog" label="blog"/></entry><entry><title type="text">REAPER整合包持续更新中，时间不定</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/reaper_integrationpack/"/><id>https://xiaodinlog.xyz/post/reaper_integrationpack/</id><updated>2022-08-24T11:54:13+08:00</updated><published>2022-08-24T11:54:13+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这是日常自用的REAPER整合包，有需要的可以拿走，假如有什么可以提升的可以在文章下评论。</summary><content type="html">&lt;h2 id="介绍">介绍&lt;/h2>
 &lt;ul>
 &lt;li>这是日常自用的REAPER整合包，有需要的可以拿走，假如有什么建议可以在文章下评论。&lt;/li>
 &lt;/ul>
