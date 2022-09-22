@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>小丁日志</title><link>https://xiaodinlog.xyz/</link><description>记录学习和生活。</description><generator>Hugo 0.103.0 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>dingpengyu06@gmail.com (xiaodinlog)</managingEditor><webMaster>dingpengyu06@gmail.com (xiaodinlog)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Sat, 17 Sep 2022 22:19:23 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://xiaodinlog.xyz/rss.xml"/><item><title>整理：各大主板开机启动需要用到的热键</title><link>https://xiaodinlog.xyz/post/motherboard-boothotkeys/</link><guid isPermaLink="true">https://xiaodinlog.xyz/post/motherboard-boothotkeys/</guid><pubDate>Sun, 18 Sep 2022 05:03:12 +0800</pubDate><author>dingpengyu06@gmail.com (xiaodinlog)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h2 id="概述">概述&lt;/h2>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>小丁日志</title><link>https://xiaodinlog.xyz/</link><description>记录学习和生活。</description><generator>Hugo 0.103.1 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>dingpengyu06@gmail.com (xiaodinlog)</managingEditor><webMaster>dingpengyu06@gmail.com (xiaodinlog)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Thu, 22 Sep 2022 22:39:28 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://xiaodinlog.xyz/rss.xml"/><item><title>整理：各大主板开机启动需要用到的热键</title><link>https://xiaodinlog.xyz/post/motherboard-boothotkeys/</link><guid isPermaLink="true">https://xiaodinlog.xyz/post/motherboard-boothotkeys/</guid><pubDate>Sun, 18 Sep 2022 05:03:12 +0800</pubDate><author>dingpengyu06@gmail.com (xiaodinlog)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h2 id="概述">概述&lt;/h2>
 &lt;ul>
 &lt;li>本篇文章主要整理一下各大主板开机时需要用到的启动热键，以防以后需要用的时候在找，就比较麻烦了。&lt;/li>
 &lt;/ul>
@@ -296,15 +296,15 @@ branch: gh-pages
 &lt;ul>
 &lt;li>这是日常自用的REAPER整合包，有需要的可以拿走，假如有什么建议可以在文章下评论。&lt;/li>
 &lt;/ul>
-&lt;h2 id="2022912">2022.9.12&lt;/h2>
+&lt;h2 id="2022923">2022.9.23&lt;/h2>
 &lt;ul>
-&lt;li>更新&lt;a href="https://reaper.fm">Reaper&lt;/a>主程序到6.67&lt;/li>
-&lt;li>更新语言包版本到6.67
-&amp;amp; 更新 &lt;a href="https://github.com/jcsteh/osara">Osara&lt;/a>版本到1005&lt;/li>
+&lt;li>更新&lt;a href="https://reaper.fm">Reaper&lt;/a>主程序到6.68&lt;/li>
+&lt;li>更新语言包版本到6.68&lt;/li>
+&lt;li>更新 &lt;a href="https://github.com/jcsteh/osara">Osara&lt;/a>版本到1008&lt;/li>
 &lt;/ul>
 &lt;h2 id="下载">下载&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://files.imydd.top/d/REAPER_Integration_Pack_latest.zip">123网盘下载 REAPER整合包最新版&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://files.imydd.top/d/REAPER_Integration_Pack_latest.zip">123网盘下载 REAPER整合包最新版 | 假如enter打开无法跳出下载工具，可复制链接在浏览器打开即可下载&lt;/a>&lt;/li>
 &lt;/ul></description><category domain="https://xiaodinlog.xyz/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/">个人作品</category><category domain="https://xiaodinlog.xyz/tags/reaper/">REAPER</category><category domain="https://xiaodinlog.xyz/tags/%E6%95%B0%E5%AD%97%E9%9F%B3%E9%A2%91%E5%B7%A5%E4%BD%9C%E7%AB%99/">数字音频工作站</category><category domain="https://xiaodinlog.xyz/tags/%E6%95%B4%E5%90%88%E5%8C%85/">整合包</category><category domain="https://xiaodinlog.xyz/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/">个人作品</category></item><item><title>Windows7热键整理</title><link>https://xiaodinlog.xyz/post/windows7shortcut-keys/</link><guid isPermaLink="true">https://xiaodinlog.xyz/post/windows7shortcut-keys/</guid><pubDate>Thu, 04 Aug 2022 20:46:07 +0800</pubDate><author>dingpengyu06@gmail.com (xiaodinlog)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;table>
 &lt;thead>
 &lt;tr>

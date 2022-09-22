@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">小丁日志</title><subtitle type="html">记录学习和生活。</subtitle><updated>2022-09-17T22:19:23+00:00</updated><id>https://xiaodinlog.xyz/</id><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/"/><link rel="self" type="application/atom+xml" href="https://xiaodinlog.xyz/atom.xml"/><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><generator uri="https://gohugo.io/" version="0.103.0">Hugo</generator><entry><title type="text">整理：各大主板开机启动需要用到的热键</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/motherboard-boothotkeys/"/><id>https://xiaodinlog.xyz/post/motherboard-boothotkeys/</id><updated>2022-09-18T05:03:12+08:00</updated><published>2022-09-18T05:03:12+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">……</summary><content type="html">&lt;h2 id="概述">概述&lt;/h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">小丁日志</title><subtitle type="html">记录学习和生活。</subtitle><updated>2022-09-22T22:39:28+00:00</updated><id>https://xiaodinlog.xyz/</id><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/"/><link rel="self" type="application/atom+xml" href="https://xiaodinlog.xyz/atom.xml"/><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><generator uri="https://gohugo.io/" version="0.103.1">Hugo</generator><entry><title type="text">整理：各大主板开机启动需要用到的热键</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/motherboard-boothotkeys/"/><id>https://xiaodinlog.xyz/post/motherboard-boothotkeys/</id><updated>2022-09-18T05:03:12+08:00</updated><published>2022-09-18T05:03:12+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">……</summary><content type="html">&lt;h2 id="概述">概述&lt;/h2>
 &lt;ul>
 &lt;li>本篇文章主要整理一下各大主板开机时需要用到的启动热键，以防以后需要用的时候在找，就比较麻烦了。&lt;/li>
 &lt;/ul>
@@ -296,15 +296,15 @@ branch: gh-pages
 &lt;ul>
 &lt;li>这是日常自用的REAPER整合包，有需要的可以拿走，假如有什么建议可以在文章下评论。&lt;/li>
 &lt;/ul>
-&lt;h2 id="2022912">2022.9.12&lt;/h2>
+&lt;h2 id="2022923">2022.9.23&lt;/h2>
 &lt;ul>
-&lt;li>更新&lt;a href="https://reaper.fm">Reaper&lt;/a>主程序到6.67&lt;/li>
-&lt;li>更新语言包版本到6.67
-&amp;amp; 更新 &lt;a href="https://github.com/jcsteh/osara">Osara&lt;/a>版本到1005&lt;/li>
+&lt;li>更新&lt;a href="https://reaper.fm">Reaper&lt;/a>主程序到6.68&lt;/li>
+&lt;li>更新语言包版本到6.68&lt;/li>
+&lt;li>更新 &lt;a href="https://github.com/jcsteh/osara">Osara&lt;/a>版本到1008&lt;/li>
 &lt;/ul>
 &lt;h2 id="下载">下载&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://files.imydd.top/d/REAPER_Integration_Pack_latest.zip">123网盘下载 REAPER整合包最新版&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://files.imydd.top/d/REAPER_Integration_Pack_latest.zip">123网盘下载 REAPER整合包最新版 | 假如enter打开无法跳出下载工具，可复制链接在浏览器打开即可下载&lt;/a>&lt;/li>
 &lt;/ul></content><category scheme="https://xiaodinlog.xyz/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/" term="个人作品" label="个人作品"/><category scheme="https://xiaodinlog.xyz/tags/reaper/" term="REAPER" label="REAPER"/><category scheme="https://xiaodinlog.xyz/tags/%E6%95%B0%E5%AD%97%E9%9F%B3%E9%A2%91%E5%B7%A5%E4%BD%9C%E7%AB%99/" term="数字音频工作站" label="数字音频工作站"/><category scheme="https://xiaodinlog.xyz/tags/%E6%95%B4%E5%90%88%E5%8C%85/" term="整合包" label="整合包"/><category scheme="https://xiaodinlog.xyz/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/" term="个人作品" label="个人作品"/></entry><entry><title type="text">Windows7热键整理</title><link rel="alternate" type="text/html" href="https://xiaodinlog.xyz/post/windows7shortcut-keys/"/><id>https://xiaodinlog.xyz/post/windows7shortcut-keys/</id><updated>2022-08-04T20:46:07+08:00</updated><published>2022-08-04T20:46:07+08:00</published><author><name>xiaodinlog</name><uri>https://xiaodinlog.xyz/</uri><email>dingpengyu06@gmail.com</email></author><rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">整理一份，以防万一假如想不起来了可以上来查一下</summary><content type="html">&lt;table>
 &lt;thead>
 &lt;tr>
