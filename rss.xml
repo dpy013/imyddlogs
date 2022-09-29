@@ -1,4 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>小丁日志</title><link>https://xiaodinlog.xyz/</link><description>记录学习和生活。</description><generator>Hugo 0.103.1 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>dingpengyu06@gmail.com (xiaodinlog)</managingEditor><webMaster>dingpengyu06@gmail.com (xiaodinlog)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Thu, 22 Sep 2022 22:39:28 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://xiaodinlog.xyz/rss.xml"/><item><title>整理：各大主板开机启动需要用到的热键</title><link>https://xiaodinlog.xyz/post/motherboard-boothotkeys/</link><guid isPermaLink="true">https://xiaodinlog.xyz/post/motherboard-boothotkeys/</guid><pubDate>Sun, 18 Sep 2022 05:03:12 +0800</pubDate><author>dingpengyu06@gmail.com (xiaodinlog)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h2 id="概述">概述&lt;/h2>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>小丁日志</title><link>https://xiaodinlog.xyz/</link><description>记录学习和生活。</description><generator>Hugo 0.104.2 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>dingpengyu06@gmail.com (xiaodinlog)</managingEditor><webMaster>dingpengyu06@gmail.com (xiaodinlog)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Thu, 29 Sep 2022 23:03:17 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://xiaodinlog.xyz/rss.xml"/><item><title>提高您在Windows安装软件的效率：Windows使用choco包管理器</title><link>https://xiaodinlog.xyz/post/choco-use/</link><guid isPermaLink="true">https://xiaodinlog.xyz/post/choco-use/</guid><pubDate>Fri, 30 Sep 2022 05:32:39 +0800</pubDate><author>dingpengyu06@gmail.com (xiaodinlog)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h2 id="什么事包管理器">什么事包管理器？&lt;/h2>
+&lt;ul>
+&lt;li>简单来说，“包管理器package manager”（或“软件包管理器”）是一种工具，它允许用户在操作系统上安装、删除、升级、配置和管理软件包。&lt;/li>
+&lt;li>软件包管理器可以是像“软件中心”这样的图形化应用，也可以是像 &lt;a href="https://itsfoss.com/apt-vs-apt-get-difference/">apt-get&lt;/a> 或 &lt;a href="https://itsfoss.com/pacman-command/">pacman&lt;/a> 这样的命令行工具。&lt;/li>
+&lt;li>具体内容可以参看&lt;a href="https://linux.cn/article-12713-1.html">这篇文章&lt;/a>&lt;/li>
+&lt;li>今天主要是分享&lt;a href="https://chocolatey.org/">Chocolatey&lt;/a>包管理器的使用。&lt;/li>
+&lt;/ul>
+&lt;h2 id="什么事chocolatey">什么事Chocolatey？&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://chocolatey.org/">Chocolatey&lt;/a>是Windows操作系统的包管理器之一，一行命令即可安装、卸载、和更新Windows系统已安装的应用程序。&lt;/li>
+&lt;li>不管从安全、还是从易用性来说，都有很不错的体验。&lt;/li>
+&lt;li>下面就记录一下笔者的使用过程：&lt;/li>
+&lt;/ul>
+&lt;h2 id="安装">安装&lt;/h2>
+&lt;p>&lt;a href="https://chocolatey.org/">Chocolatey&lt;/a>可以从&lt;a href="https://chocolatey.org/install">以下地址&lt;/a>获取安装命令。&lt;/p>
+&lt;ul>
+&lt;li>将安装命令复制到剪贴板，按下Windows+x打开上下文菜单，找到Windows PowerShell 管理员进入。&lt;/li>
+&lt;li>黏贴剪贴板的安装命令，按下enter键，过一段时间后即可安装完成。&lt;/li>
+&lt;li>输入choco -v 可以打印出 Chocolatey 的版本号，假如出现了版本号，安装就是成功的。&lt;/li>
+&lt;/ul>
+&lt;h2 id="真活不练假把式">真活不练假把式&lt;/h2>
+&lt;ul>
+&lt;li>下面就来用 Chocolatey 来安装几个软件试试效果吧！：
+`&lt;/li>
+&lt;li>choco install edge&lt;/li>
+&lt;li>choco install MicroSIP&lt;/li>
+&lt;li>choco install nvda
+`&lt;/li>
+&lt;/ul>
+&lt;h2 id="常用安装命令">常用安装命令&lt;/h2>
+&lt;ul>
+&lt;li>下面整理了&lt;a href="https://chocolatey.org">Chocolatey&lt;/a>的安装命令，方便查阅：&lt;/li>
+&lt;/ul>
+&lt;h3 id="查看choco版本">查看choco版本&lt;/h3>
+&lt;ul>
+&lt;li>choco -v&lt;/li>
+&lt;/ul>
+&lt;h3 id="更新choco版本">更新choco版本&lt;/h3>
+&lt;ul>
+&lt;li>choco upgrade chocolatey&lt;/li>
+&lt;/ul>
+&lt;h3 id="查看chocolatey安装的所有程序的列表">查看Chocolatey安装的所有程序的列表&lt;/h3>
+&lt;ul>
+&lt;li>choco list --local&lt;/li>
+&lt;/ul>
+&lt;h3 id="查看本地安装的程序">查看本地安装的程序&lt;/h3>
+&lt;ul>
+&lt;li>choco list -li&lt;/li>
+&lt;/ul>
+&lt;h3 id="安装程序">安装程序&lt;/h3>
+&lt;ul>
+&lt;li>choco install+软件包名&lt;/li>
+&lt;li>例如： choco install vscode&lt;/li>
+&lt;/ul>
+&lt;h3 id="搜索软件">搜索软件&lt;/h3>
+&lt;ul>
+&lt;li>choco search +软件包名&lt;/li>
+&lt;/ul>
+&lt;h3 id="查看软件包详情">查看软件包详情&lt;/h3>
+&lt;ul>
+&lt;li>choco info +软件包名&lt;/li>
+&lt;/ul>
+&lt;h3 id="卸载程序">卸载程序&lt;/h3>
+&lt;ul>
+&lt;li>choco uninstall +软件包名&lt;/li>
+&lt;/ul>
+&lt;h3 id="查看需要更新的软件列表">查看需要更新的软件列表&lt;/h3>
+&lt;ul>
+&lt;li>choco outdated&lt;/li>
+&lt;/ul>
+&lt;h3 id="更新指定软件包">更新指定软件包&lt;/h3>
+&lt;ul>
+&lt;li>choco upgrade +软件包名&lt;/li>
+&lt;/ul>
+&lt;h3 id="更新所有软件">更新所有软件&lt;/h3>
+&lt;ul>
+&lt;li>choco upgrade all&lt;/li>
+&lt;/ul>
+&lt;h3 id="安装清理工具">安装清理工具&lt;/h3>
+&lt;ul>
+&lt;li>choco install choco-cleaner&lt;/li>
+&lt;/ul>
+&lt;h3 id="执行清理">执行清理&lt;/h3>
+&lt;ul>
+&lt;li>choco-cleaner&lt;/li>
+&lt;li>更多教程可参看&lt;a href="https://docs.chocolatey.org/en-us/">官方地址&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="参考">参考&lt;/h2>
+&lt;ul>
+&lt;li>本文参考了* &lt;a href="https://blog.csdn.net/omaidb/article/details/120028664">Windows使用choco包管理器_识途老码的博客-CSDN&lt;/a>感谢。&lt;/li>
+&lt;/ul>
+&lt;h2 id="后记">后记&lt;/h2>
+&lt;ul>
+&lt;li>这可能是我写的最长的一篇技术博文了，在这里自我鼓励一下吧！再接再厉，自己可以的。&lt;/li>
+&lt;/ul></description><category domain="https://xiaodinlog.xyz/categories/%E4%B8%AA%E4%BA%BA%E7%BB%8F%E9%AA%8C/">个人经验</category><category domain="https://xiaodinlog.xyz/tags/chocolatey/">Chocolatey</category><category domain="https://xiaodinlog.xyz/tags/%E4%B8%AA%E4%BA%BA%E7%BB%8F%E9%AA%8C/">个人经验</category><category domain="https://xiaodinlog.xyz/tags/%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8/">包管理器</category><category domain="https://xiaodinlog.xyz/tags/windows/">Windows</category><category domain="https://xiaodinlog.xyz/tags/%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87/">提高效率</category></item><item><title>整理：各大主板开机启动需要用到的热键</title><link>https://xiaodinlog.xyz/post/motherboard-boothotkeys/</link><guid isPermaLink="true">https://xiaodinlog.xyz/post/motherboard-boothotkeys/</guid><pubDate>Sun, 18 Sep 2022 05:03:12 +0800</pubDate><author>dingpengyu06@gmail.com (xiaodinlog)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h2 id="概述">概述&lt;/h2>
 &lt;ul>
 &lt;li>本篇文章主要整理一下各大主板开机时需要用到的启动热键，以防以后需要用的时候在找，就比较麻烦了。&lt;/li>
 &lt;/ul>
